@@ -1,4 +1,4 @@
-# lily58-dvorak-qwerty-keymap
+# DVORAK-QWERTY Keymap for Lily58 keyboard
 
 Based on this autohotkey script: https://autohotkey.com/board/topic/25093-mac-style-dvorak-qwerty-command-layout-switcher-for-windows/
 
