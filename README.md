@@ -11,3 +11,8 @@ Ctrl+C, Ctrl+V, Alt+F4)
 Layer 4 is for utilities, like printscreen, insert, page up, down, etc.
 
 Pressing Left Ctrl and Left Alt from Layer 0 activates Layer 3 (using `LM` command)
+
+Using online configurator:  
+https://config.qmk.fm/#/lily58/rev1/LAYOUT
+
+Upload the `json` file to modify
